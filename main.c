@@ -20,6 +20,7 @@
 <body>
     <h>Welcome to My Simple Website</h>
     <h1> This is the Master File</h1>
+     <h2> The latest feature has been added by feature2 branch</h2>
     <form id="myForm">
         <div class="form-group">
             <label for="name">Enter your name:</label>
