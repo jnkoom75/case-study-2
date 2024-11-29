@@ -20,6 +20,7 @@
 <body>
     <h>Welcome to My Simple Website</h>
     <h1> This is the Master File</h1>
+    <h2> This is the Updated for Master File </h2>
     <form id="myForm">
         <div class="form-group">
             <label for="name">Enter your name:</label>
